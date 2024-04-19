@@ -1,7 +1,7 @@
 ## Script de Exclusão de Dados no Google Sheets
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/salvar-googlesheets/assets/109884524/282d50eb-9a94-463d-8dc3-3b778e1a669d" />
+    <img src="https://github.com/alexandrefreitass/excluir-googlesheets/assets/109884524/a035dca8-df81-4b18-97ec-7278aec7eb73" />
 </div>
 
 ### Descrição
@@ -35,4 +35,4 @@ Para instalar e configurar o script no seu ambiente Google Sheets:
 
 ### Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/salvar/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/excluir/blob/master/LICENSE) para mais detalhes.
